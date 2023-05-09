@@ -26,7 +26,7 @@
 [![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
 
 ## Getting Started
-Download the [latest release](https://github.com/clipboard1/ESP32Marauder-ST7789/releases/tag/Latest) of the firmware.  
+Download the [latest release](https://github.com/clipboard1/ESP32Marauder-ST7789/releases/latest) of the firmware.  
 
 Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder
 
